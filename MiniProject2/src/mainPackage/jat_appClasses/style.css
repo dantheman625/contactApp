@@ -1,0 +1,21 @@
+.root {
+    -fx-font-family: helvetica;
+    -fx-font-size: 14px;
+    -fx-font-weight: lighter;
+}
+.gridpane{
+    -fx-padding: 10px;
+    -fx-min-width: 200px;
+}
+.contactlist{
+    -fx-max-width: 120;
+    -fx-max-height: 200;
+}
+.titlelabel{
+	-fx-font-size: 25px;
+	}
+.box{
+	-fx-padding: 10px;
+    -fx-align-items: center;
+    -fx-border-spacing: 10px;
+    }
